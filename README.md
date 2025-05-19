@@ -1,5 +1,5 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Chatbot - Quản lý dự án phần mềm
 
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://pyan.vn/)
+Chương trình chatbot nhằm hỗ trợ môn học Quàn lý dự án phầm mềm
 
 
