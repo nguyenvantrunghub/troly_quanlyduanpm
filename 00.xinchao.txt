@@ -1,2 +1,1 @@
-Chào anh, em là Trợ Lý A.I do anh tạo ra cho môn học
-\[Quản lý dự án phần mềm]
+Chào anh, em là Trợ Lý A.I do anh tạo ra cho môn học <br>[Quản lý dự án phần mềm]
