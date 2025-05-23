@@ -1,537 +1,63 @@
 Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, em  còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
 
-| **Tuần** | **Buổi** | **Nội dung chính**                               | **Hình thức** | **Ghi chú**                                |
-| -------- | -------- | ------------------------------------------------ | ------------- | ------------------------------------------ |
-| Tuần 1   | LT 1     | Bài 1: Khái niệm về QLDA, vai trò người QLDA     | LT            | Giới thiệu môn học, thảo luận vai trò QLDA |
-|          | TH 1     | Thực hành phân công người QLDA, rút kinh nghiệm  | TH            | Dự án nhỏ về tin tức online                |
-| Tuần 2   | LT 2     | Bài 2: Khởi động dự án                           | LT            | Project Charter, Smart goal, Scope         |
-|          | TH 2     | Luyện tập tạo Project Charter, phân công vai trò | TH            | Phân tích vai trò QLDA                     |
-| Tuần 3   | LT 3     | Bài 3: Công cụ & framework QLDA (Scrum)          | LT            | Sinh viên tự học video + bài tập           |
-|          | TH 3     | Phân tích quy trình nhóm đã chọn                 | TH            | Khó khăn khi không có quy trình            |
-| Tuần 4   | LT 4     | Bài 4: Lập kế hoạch dự án (phần 1)               | LT            | Project team, milestone                    |
-|          | TH 4     | Phân tích vai trò QLDA trong scrum               | TH            | Chọn quy trình vận hành nhóm               |
-| Tuần 5   | LT 5     | Bài 5: Lập kế hoạch dự án (phần 2)               | LT            | WBS, Schedule                              |
-|          | TH 5     | QLDA trình bày sprint 1: giao tiếp, theo dõi     | TH            | Bàn giao vai trò QLDA                      |
-| Tuần 6   | LT 6     | Bài 6: Quản lý thay đổi & cấu hình               | LT            | Tự học video + tài liệu                    |
-|          | TH 6     | QLDA trình bày sprint 2                          | TH            | Thảo luận teamwork, tracking               |
-| Tuần 7   | LT 7     | Bài 7: Quản lý chất lượng & rủi ro               | LT            | Kế hoạch chất lượng & risk management      |
-|          | TH 7     | Chuẩn bị đồ án – phân tích đạt/không đạt         | TH            | Giới thiệu đồ án cuối kỳ                   |
-| Tuần 8   | LT 8     | Bài 8: Thực thi dự án                            | LT            | Quản lý trao đổi, họp, status report       |
-|          | TH 8     | Đồ án thực tế – Dự án “mua vé khu vui chơi”      | TH            | Quy trình Scrum: grooming, planning,...    |
-| Tuần 9   | LT 9     | Bài 9: Kết thúc dự án                            | LT            | Báo cáo, đóng dự án, lesson learned        |
-|          | TH 9     | Tiếp tục thực hiện đồ án “mua vé khu vui chơi”   | TH            | Scrum theo tuần                            |
-| Tuần 10  | LT 10    | Bài 10: EVM trên Scrum và truyền thống           | eLearning     | So sánh quy trình và đo lường tiến độ      |
-|          | TH 10    | Hoàn thiện đồ án “mua vé khu vui chơi”           | TH            | Báo cáo tiến độ từng Sprint                |
+Tuần 1: TỔNG QUAN VỀ DỰ ÁN VÀ QUẢN LÝ DỰ ÁN
 
-
-🧑‍🏫 Tuần 1: TỔNG QUAN VỀ DỰ ÁN VÀ QUẢN LÝ DỰ ÁN
-📌 1. Khái niệm "Dự án" và đặc điểm
-✅ Định nghĩa "Dự án":
+1. Khái niệm "Dự án" và đặc điểm  
+Định nghĩa "Dự án":  
 Dự án là một nỗ lực tạm thời được thực hiện để tạo ra một sản phẩm, dịch vụ hoặc kết quả duy nhất.
 
-✅ Đặc điểm của dự án:
-Tính tạm thời: Có thời điểm bắt đầu và kết thúc rõ ràng.
+Đặc điểm của dự án:
+- Tính tạm thời: Có thời điểm bắt đầu và kết thúc rõ ràng.
+- Tính duy nhất: Mỗi dự án là khác nhau (dù có thể giống nhau về hình thức).
+- Có mục tiêu rõ ràng: Được xác định bởi yêu cầu khách hàng hoặc tổ chức.
+- Giới hạn tài nguyên: Bao gồm thời gian, chi phí, nhân lực, công nghệ...
+- Có cấu trúc tổ chức riêng: Phân công trách nhiệm, nhóm làm việc.
 
-Tính duy nhất: Mỗi dự án là khác nhau (dù có thể giống nhau về hình thức).
+Ví dụ:
+- Phát triển phần mềm quản lý bán hàng.
+- Xây dựng ứng dụng học trực tuyến cho sinh viên.
 
-Có mục tiêu rõ ràng: Được xác định bởi yêu cầu khách hàng hoặc tổ chức.
-
-Giới hạn tài nguyên: Bao gồm thời gian, chi phí, nhân lực, công nghệ...
-
-Có cấu trúc tổ chức riêng: Phân công trách nhiệm, nhóm làm việc.
-
-📘 Ví dụ:
-
-Phát triển phần mềm quản lý bán hàng.
-
-Xây dựng ứng dụng học trực tuyến cho sinh viên.
-
-📌 2. Khái niệm "Quản lý dự án"
-✅ Định nghĩa:
+2. Khái niệm "Quản lý dự án"  
+Định nghĩa:  
 Quản lý dự án là việc áp dụng kiến thức, kỹ năng, công cụ và kỹ thuật vào các hoạt động của dự án nhằm đáp ứng yêu cầu của dự án.
 
-✅ Các hoạt động chính:
-Khởi xướng dự án
+Các hoạt động chính:
+- Khởi xướng dự án
+- Lập kế hoạch
+- Thực hiện
+- Giám sát & kiểm soát
+- Kết thúc dự án
 
-Lập kế hoạch
-
-Thực hiện
-
-Giám sát & kiểm soát
-
-Kết thúc dự án
-
-📘 Trong phần mềm:
+Trong phần mềm:  
 Quản lý dự án phần mềm bao gồm quản lý yêu cầu, phạm vi, tiến độ, nhân sự, rủi ro, chất lượng phần mềm...
 
-📌 3. Vai trò và trách nhiệm của người quản lý dự án
-✅ Vai trò chính:
+3. Vai trò và trách nhiệm của người quản lý dự án  
+Vai trò chính:  
 Là người chịu trách nhiệm cuối cùng về việc đảm bảo dự án hoàn thành đúng mục tiêu, thời gian và chi phí.
 
-✅ Trách nhiệm cụ thể:
-Lập kế hoạch dự án
-
-Điều phối và phân công công việc
-
-Theo dõi tiến độ và điều chỉnh khi cần
-
-Quản lý rủi ro và giải quyết vấn đề
-
-Giao tiếp với các bên liên quan
-
-Đảm bảo chất lượng sản phẩm đầu ra
-
-🧠 Tố chất cần có: lãnh đạo, kỹ năng giao tiếp, tư duy tổ chức, quản lý thời gian, ra quyết định nhanh.
-
-💬 4. Thảo luận lớp: Tại sao cần Quản lý dự án trong phần mềm?
-👉 Gợi ý để sinh viên thảo luận:
-
-Dự án phần mềm thường có gì đặc biệt?
-
-Nếu không quản lý, điều gì có thể xảy ra?
-
-Vai trò của quản lý trong các khía cạnh: tiến độ, chi phí, chất lượng phần mềm?
-
-Có phải chỉ cần giỏi lập trình là đủ?
-
-🎯 Mục tiêu thảo luận:
-Nhận thức được tính phức tạp và đặc thù của dự án phần mềm.
-
-Hiểu được sự cần thiết của vai trò quản lý trong việc đảm bảo thành công của dự án.
-
-✅ Tóm tắt bài học
-Dự án là hoạt động tạm thời tạo ra sản phẩm/dịch vụ duy nhất.
-
-Quản lý dự án là quá trình điều phối toàn bộ hoạt động của dự án để đạt mục tiêu.
-
-Quản lý dự án phần mềm là cần thiết để đảm bảo chất lượng, tiến độ và hiệu quả.
-
-Người quản lý dự án đóng vai trò then chốt trong sự thành công.
-
--------------------------
-🧭 Tuần 2: Giai đoạn Khởi động Dự án (Project Initiation)
-1. ✅ Quy trình khởi động dự án
-🎓 Lý thuyết:
-Giai đoạn khởi động giúp xác định:
-
-Tại sao dự án được thực hiện?
-
-Ai là người liên quan?
-
-Dự án cần đạt được điều gì?
-
-🔍 Thực tiễn:
-Trong một dự án phát triển phần mềm:
-
-Nếu bạn bắt đầu viết code ngay mà không rõ mục tiêu và phạm vi → dự án sẽ dễ bị thất bại, lệch hướng hoặc mất kiểm soát.
-
-VD: Một startup yêu cầu “làm app gọi xe giống Grab” nhưng không nói rõ cần gì → nhóm làm không đúng mong muốn khách hàng.
-
-💡 Các bước cụ thể:
-Bước	Mô tả
-1. Xác định mục tiêu	Dự án nhằm giải quyết vấn đề gì?
-2. Xác định phạm vi	Làm gì và không làm gì?
-3. Xác định stakeholders	Ai tham gia, ai chịu ảnh hưởng?
-
-2. ✅ Project Charter (Hiến chương dự án)
-🎓 Lý thuyết:
-Là tài liệu chính thức khởi động dự án.
-
-Giúp trao quyền cho người quản lý dự án và thống nhất mục tiêu chung.
-
-📄 Nội dung cơ bản:
-Tên dự án
-
-Lý do kinh doanh
-
-Mục tiêu SMART
-
-Phạm vi sơ bộ
-
-Stakeholders chính
-
-Giới hạn về ngân sách/thời gian
-
-Rủi ro cao (nếu có)
-
-🔍 Thực tiễn:
-Khi một công ty phần mềm bắt đầu dự án làm hệ thống CRM cho khách hàng doanh nghiệp, Project Charter sẽ xác định rõ:
-
-Mục tiêu: xây CRM trong 6 tháng
-
-Không làm module thống kê nâng cao
-
-Ngân sách: tối đa 300 triệu đồng
-
-🧠 Nếu không có tài liệu này, nhóm phát triển dễ hiểu sai yêu cầu hoặc làm “vượt giới hạn”.
-
-3. ✅ Business Opportunity & SMART Goal
-🎓 Lý thuyết:
-Business Opportunity:
-
-Lý do dự án nên tồn tại → Dự án tạo ra giá trị gì cho tổ chức?
-
-SMART Goal là cách đặt mục tiêu hiệu quả:
-
-Chữ	Ý nghĩa	Ví dụ
-S	Specific (Cụ thể)	“Ứng dụng học tập cho sinh viên đại học”
-M	Measurable (Đo lường được)	“Tối thiểu 500 người dùng trong 3 tháng”
-A	Achievable (Có thể đạt được)	Dựa trên nguồn lực có
-R	Relevant (Liên quan)	Phù hợp với chiến lược của công ty
-T	Time-bound (Thời hạn)	Hoàn thành trong 90 ngày
-
-🔍 Thực tiễn:
-Một công ty thấy cơ hội vì khách hàng đang chuyển sang học online, nên họ khởi động dự án phát triển nền tảng học trực tuyến.
-
-Mục tiêu theo SMART: "Xây dựng nền tảng e-learning có thể phục vụ 1000 sinh viên, với 4 chức năng chính, hoàn thành trong 3 tháng."
-
-4. ✅ Phạm vi ban đầu (Preliminary Scope Statement)
-🎓 Lý thuyết:
-Là bản mô tả tạm thời những gì sẽ được thực hiện (và không thực hiện).
-
-Giúp xác lập ranh giới rõ ràng cho dự án.
-
-Thành phần	Ví dụ
-Yêu cầu	Đăng ký học phần, upload bài giảng
-Loại trừ	Không làm app di động
-Ràng buộc	Ngân sách 100 triệu, thời gian 3 tháng
-
-🔍 Thực tiễn:
-Dự án xây phần mềm quản lý thư viện:
-
-Bao gồm: mượn/trả sách, quản lý tài khoản, thống kê.
-
-Không bao gồm: số hóa tài liệu giấy hay app mobile.
-
-5. ✅ Kỹ thuật thảo luận xác định vấn đề
-🎓 Lý thuyết:
-Giúp thu thập thông tin, hiểu nhu cầu thực sự của người dùng và xác định vấn đề cần giải quyết.
-
-Kỹ thuật	Mô tả	Ứng dụng
-Phỏng vấn	Hỏi trực tiếp người dùng	Hỏi thủ thư về khó khăn khi quản lý sách
-Quan sát	Theo dõi người dùng sử dụng hệ thống hiện tại	Quan sát nhân viên làm báo cáo
-5 Whys	Hỏi "Tại sao?" liên tục để tìm nguyên nhân gốc	“Tại sao khách không mua hàng?”
-Brainstorm	Động não tập thể	Cả nhóm nghĩ ra các chức năng cần thiết
-Use-case workshop	Viết kịch bản sử dụng phần mềm	Mô tả hành vi người dùng với hệ thống
-
-🔍 Thực tiễn:
-Trước khi phát triển hệ thống học trực tuyến, nhóm đi phỏng vấn sinh viên, giảng viên → biết được cần thêm tính năng quiz và theo dõi tiến độ học.
-
-📌 Tổng kết dành cho sinh viên:
-Bạn cần hiểu	Vì sao quan trọng?
-Khởi động là giai đoạn nền tảng	Nếu khởi động sai, cả dự án sẽ thất bại
-Project Charter giúp thống nhất mục tiêu	Tránh hiểu lầm và lệch hướng
-Mục tiêu SMART giúp bạn đặt mục tiêu rõ ràng	Dễ đo lường và đạt được
-Phạm vi ban đầu giúp kiểm soát mong đợi	Tránh “tính năng rắn bò” (scope creep)
-Kỹ thuật xác định vấn đề giúp hiểu đúng nhu cầu	Làm ra sản phẩm đúng cái người dùng cần
-
-------------------
-🧭 Tuần 3 – Framework và Công cụ Quản lý Dự án
-🎯 Chủ đề: Các phương pháp và công cụ quản lý phổ biến
-✅ 1. Tổng quan các phương pháp quản lý dự án
-Phương pháp	Mô tả ngắn	Khi nào dùng?
-Waterfall	Làm từng bước từ đầu đến cuối, không quay lại	Dự án có yêu cầu rõ, ít thay đổi
-Agile	Làm từng phần nhỏ, cải tiến liên tục	Dự án phần mềm, yêu cầu thay đổi thường xuyên
-Scrum	Một dạng Agile, chia thời gian thành các đợt nhỏ (sprint)	Phát triển phần mềm nhóm nhỏ
-Kanban	Quản lý công việc bằng bảng trực quan (thường 3 cột: To Do – Doing – Done)	Dự án cần theo dõi liên tục, không chia thời gian
-
-✅ 2. Cấu trúc của Scrum Framework
-Scrum là một mô hình Agile phổ biến nhất trong phát triển phần mềm.
-
-🔹 Roles (Vai trò):
-Vai trò	Mô tả
-Product Owner	Đại diện khách hàng, quyết định tính năng
-Scrum Master	Người hướng dẫn nhóm, gỡ rối và đảm bảo theo đúng Scrum
-Development Team	Nhóm phát triển, tự tổ chức và làm việc theo sprint
-
-🔹 Artifacts (Tài liệu):
-Artifact	Mô tả
-Product Backlog	Danh sách tất cả các yêu cầu sản phẩm
-Sprint Backlog	Các việc sẽ làm trong sprint hiện tại
-Increment	Sản phẩm phần mềm chạy được sau mỗi sprint
-
-🔹 Events (Sự kiện):
-Sự kiện	Diễn ra khi nào?	Mục đích
-Sprint Planning	Bắt đầu mỗi sprint	Chọn việc để làm
-Daily Scrum (15 phút)	Mỗi ngày	Cập nhật tiến độ, gỡ khó khăn
-Sprint Review	Cuối sprint	Trình bày sản phẩm cho Product Owner
-Sprint Retrospective	Sau review	Nhóm tự đánh giá và cải tiến
-
-🧠 Một Sprint thường kéo dài từ 1 đến 4 tuần.
-
-✅ 3. So sánh Waterfall và Agile
-Tiêu chí	Waterfall	Agile
-Cách làm	Theo từng giai đoạn cố định	Linh hoạt, lặp lại
-Thay đổi yêu cầu	Khó thay đổi	Dễ thích ứng
-Giao tiếp khách hàng	Ít, chỉ đầu/cuối	Thường xuyên
-Kiểm thử	Cuối cùng	Trong suốt quá trình
-Khi nào phù hợp	Dự án ổn định, yêu cầu rõ	Dự án thay đổi nhanh, nhiều thử nghiệm
-
-📘 Ví dụ thực tiễn:
-
-Làm phần mềm ngân hàng → Waterfall (vì cần an toàn, rõ ràng).
-
-Làm ứng dụng startup → Agile/Scrum (vì khách hàng hay đổi ý).
-
-✅ 4. Ưu – nhược điểm của Scrum
-✅ Ưu điểm:
-Linh hoạt, thích ứng nhanh với thay đổi
-
-Giao tiếp nhóm tốt, minh bạch
-
-Sản phẩm có thể demo sớm cho khách hàng
-
-Phát hiện lỗi sớm
-
-❌ Nhược điểm:
-Không phù hợp nếu không có nhóm chủ động
-
-Cần Product Owner có thời gian tham gia liên tục
-
-Nhóm mới học dễ dùng sai cách
-
-📘 Thực tiễn:
-Ở các công ty phần mềm như FPT Software, KMS, TMA…, Scrum là phương pháp rất phổ biến. Nhưng nếu Product Owner không sẵn sàng phản hồi nhanh, Scrum sẽ khó thành công.
-
-✅ 5. Các công cụ hỗ trợ quản lý: Trello – Jira – Asana
-Công cụ	Đặc điểm chính	Dùng khi nào?
-Trello	Dễ dùng, dạng bảng Kanban (To Do – Doing – Done), miễn phí	Sinh viên, nhóm nhỏ, quản lý cá nhân
-Jira	Phức tạp hơn, hỗ trợ Scrum, report, quy trình chuyên sâu	Công ty phần mềm, nhóm lớn
-Asana	Kết hợp dạng bảng + danh sách, tốt cho teamwork	Quản lý công việc nhóm vừa đến lớn
-
-📘 Gợi ý thực hành:
-
-Sinh viên có thể tạo Trello để quản lý đồ án:
-
-Cột To Do: “Tạo giao diện login”, “Thiết kế database”
-
-Cột Doing: Việc đang làm
-
-Cột Done: Đã hoàn thành
-
-📌 Tổng kết kiến thức Tuần 3
-Nội dung	Ý nghĩa thực tiễn
-Biết các phương pháp quản lý	Chọn cách phù hợp với dự án bạn tham gia
-Scrum giúp chia nhỏ công việc	Nhóm dễ kiểm soát tiến độ và chất lượng
-Dùng Trello, Jira, Asana	Quản lý tiến độ rõ ràng, tránh quên việc
-So sánh Waterfall – Agile	Hiểu lý do vì sao công ty chọn cách này hay cách kia
-
---------------------
-🧭 Tuần 4: Lập kế hoạch dự án – Phần 1
-🎯 Bài 4: Lập kế hoạch tổng quát
-✅ 1. Các yếu tố chính trong lập kế hoạch dự án
-Muốn lập kế hoạch tốt, bạn cần xác định rõ 4 yếu tố cơ bản:
-
-Yếu tố	Giải thích	Ví dụ thực tế
-🎯 Mục tiêu (Goals)	Dự án muốn đạt được điều gì?	“Tạo một app quản lý chi tiêu cho sinh viên trong 2 tháng.”
-👥 Thành viên (Team Members)	Ai sẽ tham gia dự án? Có kỹ năng gì?	1 bạn code backend, 1 bạn frontend, 1 bạn thiết kế UI
-💰 Tài nguyên (Resources)	Những gì bạn có sẵn để thực hiện? (người, thiết bị, công cụ)	Laptop, Figma, Trello, Internet
-⏳ Thời gian (Timeline)	Dự án kéo dài bao lâu? Các mốc quan trọng?	Tổng thời gian: 8 tuần, có 4 mốc đánh giá
-
-👉 Gợi ý thực hành:
-Tạo bảng liệt kê 4 yếu tố này cho chính đồ án hoặc bài tập nhóm của bạn.
-
-✅ 2. Critical Success Factors (CSF) – Các yếu tố thành công cốt lõi
-🎓 Lý thuyết:
-Đây là những điều bắt buộc phải làm tốt thì dự án mới thành công.
-
-CSF thường gặp	Ý nghĩa
-Sự cam kết của nhóm	Mọi người đều nghiêm túc, có trách nhiệm
-Giao tiếp rõ ràng	Không hiểu nhầm, trao đổi thường xuyên
-Quản lý thời gian tốt	Không bị trễ hạn, đúng tiến độ
-Phản hồi từ người dùng	Làm đúng cái người dùng cần
-
-🔍 Thực tiễn sinh viên:
-Làm đồ án nhóm mà:
-
-Không ai nhắc ai, ai cũng bận → dễ thất bại
-
-Không check tiến độ → nước đến chân mới nhảy
-
-👉 Vậy nên: hãy xác định 2–3 yếu tố mà nhóm bạn phải làm tốt nhất.
-
-✅ 3. Thành lập đội dự án – Phân công vai trò
-🎓 Lý thuyết:
-Dự án phần mềm cần các vai trò như:
-
-Vai trò	Nhiệm vụ chính
-Project Manager	Quản lý tiến độ, phân công công việc
-Developer	Lập trình, viết code
-UI/UX Designer	Thiết kế giao diện, trải nghiệm người dùng
-Tester	Kiểm thử phần mềm
-Documentation	Viết tài liệu, báo cáo
-
-🧠 Nhóm sinh viên có thể kết hợp nhiều vai trò trong 1 người. VD: 1 bạn vừa làm code vừa làm báo cáo.
-
-🔍 Thực tế sinh viên:
-Bạn là sinh viên, nên nhóm chỉ có 3–5 người → cần:
-
-Phân vai rõ từ đầu
-
-Họp đầu kỳ để ai cũng biết việc ai làm gì
-
-👉 Mẹo nhỏ: Dùng Trello chia việc rõ từng cột theo người và theo vai trò.
-
-✅ 4. Xác định Milestones – Thời hạn – Kỳ vọng
-🎓 Lý thuyết:
-Milestone là cột mốc quan trọng trong dự án → giúp theo dõi tiến độ.
-
-Deadline là thời hạn hoàn thành từng công việc nhỏ.
-
-Kỳ vọng là mong muốn từ người dùng, khách hàng hoặc giảng viên.
-
-Ví dụ milestone (cho dự án 8 tuần)	Nội dung
-Tuần 2	Hoàn tất tài liệu yêu cầu người dùng
-Tuần 4	Xong phần giao diện người dùng
-Tuần 6	Xong kết nối backend
-Tuần 8	Demo sản phẩm, nộp báo cáo
-
-🔍 Thực tế sinh viên:
-Bạn làm đồ án mà:
-
-Không chia mốc → dễ làm dồn cuối kỳ
-
-Không rõ kỳ vọng giảng viên → dễ bị trừ điểm
-
-👉 Mẹo: Dùng Google Calendar + Trello để chia milestone ra và gắn deadline cụ thể.
-
-📌 Tổng kết Tuần 4 – Dành cho sinh viên
-Bạn cần biết	Vì sao quan trọng?
-Xác định rõ mục tiêu, vai trò, thời gian	Để có kế hoạch hành động cụ thể
-Biết các CSF	Giúp nhóm bạn tập trung vào điều quan trọng nhất
-Milestone rõ ràng	Dự án không bị trễ, không dồn việc cuối kỳ
-Phân vai sớm	Tránh “người làm, người chơi”
-
-🧪 Gợi ý thực hành cá nhân hoặc nhóm:
-Tạo kế hoạch đơn giản cho 1 dự án nhỏ (VD: xây web xem điểm sinh viên)
-
-Viết các mục tiêu (SMART) và milestone trong file Google Docs
-
-Dùng Trello để chia công việc và theo dõi tiến độ
-
-Tự đánh giá lại hàng tuần theo milestone
-------------------------
-🧭 Tuần 5: Lập kế hoạch dự án – Phần 2
-🎯 Chủ đề: WBS và Lịch trình (Schedule)
-✅ 1. Work Breakdown Structure (WBS) – Cấu trúc phân rã công việc
-🎓 Khái niệm:
-WBS là một công cụ phân chia dự án thành các phần nhỏ hơn, giúp quản lý dễ dàng hơn.
-
-🧠 “Bạn không thể quản lý những gì bạn không thể chia nhỏ.”
-
-📌 Mục tiêu:
-Biết rõ dự án có những gì
-
-Dễ giao việc, theo dõi tiến độ
-
-Tránh bỏ sót nhiệm vụ
-
-📊 Ví dụ thực tế (dự án làm Website bán hàng):
-less
-Copy
-Edit
-Dự án: Xây dựng website bán hàng
-├── Phân tích yêu cầu
-│   ├── Thu thập yêu cầu
-│   └── Tài liệu yêu cầu
-├── Thiết kế
-│   ├── Giao diện người dùng (UI)
-│   └── Thiết kế database
-├── Phát triển
-│   ├── Frontend
-│   └── Backend
-├── Kiểm thử
-│   ├── Unit Test
-│   └── Test toàn hệ thống
-├── Triển khai & báo cáo
-👉 Mỗi "nhánh" trong WBS sẽ tiếp tục phân nhỏ ra đến mức có thể giao việc cụ thể được.
-
-✅ 2. Phân rã công việc & xác định công việc chi tiết
-🧩 Phân rã công việc là gì?
-Là chia nhỏ một công việc lớn thành các task cụ thể, có thể giao cho từng người làm.
-
-✍ Cách làm:
-Xác định đầu việc chính (dựa theo WBS)
-
-Chia nhỏ thành công việc con
-
-Gắn người phụ trách, thời gian hoàn thành, kết quả mong đợi
-
-📘 Ví dụ nhỏ:
-Công việc: Thiết kế giao diện → phân nhỏ thành:
-
-Vẽ mockup trang chủ
-
-Thiết kế giao diện đăng nhập
-
-Thiết kế giao diện giỏ hàng
-
-👉 Sau khi phân rã, bạn có thể đưa vào sơ đồ Gantt để lập lịch.
-
-✅ 3. Lập lịch trình (Schedule)
-⏳ Các công cụ phổ biến:
-a. Gantt Chart (Sơ đồ Gantt)
-Dạng biểu đồ thanh, trục ngang là thời gian, trục dọc là công việc
-
-Mỗi task là 1 thanh thể hiện thời gian bắt đầu/kết thúc
-
-📘 Ví dụ minh họa:
-
-less
-Copy
-Edit
-| Công việc          | Thời gian |
-|-------------------|-----------|
-| Thu thập yêu cầu  | Tuần 1–2  |
-| Thiết kế UI       | Tuần 2–3  |
-| Code frontend     | Tuần 3–5  |
-| Test hệ thống     | Tuần 5–6  |
-Bạn có thể dùng Excel, [Trello + Gantt plugin], hoặc phần mềm như GanttProject, ClickUp, Notion.
-
-b. PERT Chart (Program Evaluation Review Technique)
-Dùng để thể hiện các mối quan hệ giữa công việc (nhiệm vụ nào phải xong thì mới làm tiếp)
-
-Mỗi công việc là một nút trong sơ đồ → giúp ước lượng thời gian chính xác hơn
-
-Loại thời gian trong PERT	Ý nghĩa
-Thời gian lạc quan (O)	Trong điều kiện thuận lợi nhất
-Thời gian bi quan (P)	Trong điều kiện xấu nhất
-Thời gian bình thường (M)	Trong điều kiện bình thường
-Công thức tính trung bình	(O + 4M + P)/6
-
-c. CPM (Critical Path Method – Phương pháp đường găng)
-Tìm ra con đường dài nhất từ đầu đến cuối dự án → đây là chuỗi công việc không được trễ, nếu không dự án sẽ trễ
-
-📘 Ví dụ:
-Nếu bạn cần làm 10 công việc nhưng chỉ 4 công việc nối liền nhau ảnh hưởng tới tiến độ cuối cùng → đó là critical path.
-
-✅ 4. Quản lý thời gian & xác định điểm tới hạn (Deadline)
-🎯 Quản lý thời gian nghĩa là:
-Biết việc nào làm trước, việc nào làm sau
-
-Biết khi nào phải hoàn thành để toàn dự án không bị trễ
-
-📍 Điểm tới hạn (Deadline):
-Là thời gian chậm nhất mà một task phải xong
-
-Bạn phải đặt deadline cho từng task → nhóm sẽ chủ động
-
-📘 Ví dụ sinh viên:
-
-Giao diện phải hoàn thành trước tuần 4, nếu không code backend không test được → đây là deadline cứng.
-
-📌 Tổng kết Tuần 5 – Ghi nhớ cho sinh viên
-Nội dung	Ứng dụng thực tế
-WBS	Chia việc rõ ràng, dễ giao, dễ kiểm soát
-Phân rã công việc	Giao đúng người đúng việc
-Gantt, PERT, CPM	Lập kế hoạch có thời gian cụ thể
-Quản lý deadline	Không trễ tiến độ nhóm, tránh dồn cuối kỳ
-
-🧪 Bài tập thực hành (gợi ý):
-Chọn một đề tài đồ án nhóm
-
-Lập WBS phân chia tối thiểu 4 cấp công việc
-
-Tạo Gantt Chart đơn giản bằng Excel hoặc giấy
-
-Xác định Critical Path (nếu biết PERT/CPM)
+Trách nhiệm cụ thể:
+- Lập kế hoạch dự án
+- Điều phối và phân công công việc
+- Theo dõi tiến độ và điều chỉnh khi cần
+- Quản lý rủi ro và giải quyết vấn đề
+- Giao tiếp với các bên liên quan
+- Đảm bảo chất lượng sản phẩm đầu ra
+
+Tố chất cần có: lãnh đạo, kỹ năng giao tiếp, tư duy tổ chức, quản lý thời gian, ra quyết định nhanh.
+
+4. Thảo luận lớp: Tại sao cần Quản lý dự án trong phần mềm?  
+Gợi ý để sinh viên thảo luận:
+- Dự án phần mềm thường có gì đặc biệt?
+- Nếu không quản lý, điều gì có thể xảy ra?
+- Vai trò của quản lý trong các khía cạnh: tiến độ, chi phí, chất lượng phần mềm?
+- Có phải chỉ cần giỏi lập trình là đủ?
+
+Mục tiêu thảo luận:
+- Nhận thức được tính phức tạp và đặc thù của dự án phần mềm.
+- Hiểu được sự cần thiết của vai trò quản lý trong việc đảm bảo thành công của dự án.
+
+Tóm tắt bài học:
+- Dự án là hoạt động tạm thời tạo ra sản phẩm/dịch vụ duy nhất.
+- Quản lý dự án là quá trình điều phối toàn bộ hoạt động của dự án để đạt mục tiêu.
+- Quản lý dự án phần mềm là cần thiết để đảm bảo chất lượng, tiến độ và hiệu quả.
+- Người quản lý dự án đóng vai trò then chốt trong sự thành công.
