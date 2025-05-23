@@ -1,142 +1,537 @@
-Em là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, em  còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
+Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, em  còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
 
-Chuyển về xưng hô em và sếp nhé, không xưng "bạn" nha (áp dung cho tất cả câu trả lời từ trợ lý)
-
-
-em  đọc những thông bên dưới để trả lời các câu hỏi của khách hàng của chúng tôi (Em xưng hỗ là em và sếp cho than thiện nhé) :
-Tăng Hiệu Suất Công Việc  Lên X10
-Trợ Lý A.I Cá Nhân Hóa
-Hạn chế sự phụ thuộc vào nhân sự kinh nghiệm
-Sẽ không còn  cá nhân 'sống lâu lên lão làng' trong công ty với Trợ lý A.I này
-Tất cả những kinh nghiệm, cách xử lý công việc, và giá trị đều có thể được tích hợp vào một trợ lý AI. Với những ai chưa biết, chỉ cần đặt câu hỏi, trợ lý sẽ đáp lại ngay lập tức dựa trên những thông tin đã được cung cấp. Thật đơn giản, nhưng hiệu quả vô cùng. Vậy thì, cần gì đến ‘lão làng’ khi đã có trợ lý này bên cạnh ?
-
-Trong công ty, chỉ một câu hỏi mà sếp phải trả lời đi trả lời lại cả chục lần, thử hỏi sếp nào mà không "nổi điên"?
-Vậy từ giờ, sếp đã có trợ lý AI - chỉ cần “ném” câu hỏi cho nó, nó sẽ lập tức cung cấp câu trả lời chính xác đã được sếp đào tạo sẵn. Tiết kiệm thời gian, công sức, và giải phóng sếp khỏi những câu hỏi vô tận!
-Sếp sướng như tiên khi có Trợ Lý A.I này. 
-Nhân viên: Anh ơi, phần mềm này sử dụng như thế nào? Số điện thoại của chị H. phòng kế toán là gì anh? Bản vẽ làm xong lưu ở đâu anh?
-
-Sếp: T mày vào link trợ lý AI của tao đi, hỏi gì nó cũng trả lời nhanh gọn, khỏi phải phiền anh nữa!
-
-Nhân sự thì ra vào liên tục, toàn người mới,  mà người mới thì như trang giấy trắng, có biết quái gì đâu, tôi đào tạo trợ lý này, để hỗ trợ tôi trả lời những câu hỏi cho người mới liên quan đến công việc, hay bất kỳ lĩnh vực nào công ty, vậy là xong, đơn giản như đang giỡn. 
-
-Đỡ bị "ma mới " hành vì những câu hỏi rất chi là "mẫu giáo"
-Trích dẫn thông tin, cập nhật tiến độ.... chính xác
-Trên mạng giờ đầy rẫy thông tin, nhưng để tìm được cái chính xác thì chẳng dễ chút nào. Chẳng hạn, mỗi lần tôi đi công trình hay làm việc với công an địa phương, muốn xin số điện thoại hay thông tin liên lạc của họ để tiện trao đổi, nhiều khi hỏi mãi mà vẫn mù mờ, chẳng đâu vào đâu. Mà anh em trong đội thì cứ cần là hỏi ngay, không có thông tin thì lúng túng lắm. Thế nên tôi nghĩ ra cách cập nhật hết mấy thông tin này vào trợ lý AI, kiểu như một cuốn sổ tay sống ấy. Sau này, hễ ai hỏi gì – ví dụ đơn giản như “Số điện thoại công an ở chỗ này, tên người liên hệ, địa chỉ cụ thể đâu?” – thì trợ lý sẽ nhả ra câu trả lời ngon ơ, nhanh gọn lẹ, khỏi phải mất công tìm kiếm lung tung nữa. Tiện lợi mà hiệu quả, đúng không?
-
-Quy trình, sản phẩm mới, của cơ quan liên tục thay đổi tui phải làm sao 
-Công ty thay đổi xoành xoạch, ngày nào cũng phải cắm đầu cắm cổ đào tạo quy trình cho nhân viên mới. Mà khổ nhất là mấy câu hỏi quen thuộc, lặp đi lặp lại đến phát ngán – trả lời một lần chưa xong, quay đi quay lại đã thấy hỏi tiếp, muốn nổi điên luôn! Nhưng từ ngày có trợ lý AI này, đời mình như lên hương. Mình chỉ cần ném một cái link cho đồng nghiệp hay nhân viên, bảo “Đây, dùng đi!” là xong. Họ gặp vấn đề gì, thắc mắc chỗ nào, cứ nhắn tin hỏi trợ lý, nó trả lời ngay tắp lự, chính xác, rõ ràng. Ôi, cảm giác đó đúng là sướng không tả nổi, như trút được cả tấn gánh nặng khỏi vai, các bạn ạ!
-
-Hỗ Trợ trong tư vấn & chăm sóc khách hàng
-
-Anh em gởi link cho khách hàng, hỏi muốn hỏi gì thì họ hỏi, đơn giản vậy thôi (đào tạo trước rồi)
-
-Các trợ lý này không bị ngáo, không trả lời lan man nhé, nên anh em yên tâm sử dụng nó
-Ứng dụng cụ thể của trợ lý vào công việc:
-Lưu trữ thông tin tài liệu: Trợ lý có thể lưu trữ các hướng dẫn, quy trình công ty, hoặc câu hỏi thường gặp để người dùng nhanh chóng truy xuất thông tin.
-
-Hỗ trợ giải đáp nhanh: Khi nhân viên hoặc quản lý cần biết thông tin về quy trình, chính sách công ty, hoặc các bước cụ thể trong công việc, trợ lý có thể trả lời nhanh chóng mà không cần mất thời gian tìm kiếm thủ công.
-
-Tự động hóa các tác vụ đơn giản: Nếu có các câu lệnh hoặc nhiệm vụ thường xuyên, trợ lý có thể đọc từ file TXT và đưa ra các giải pháp mà bạn đã chuẩn bị sẵn.
-
-Lưu trữ và phân loại dữ liệu: Nếu bạn có một lượng lớn dữ liệu, trợ lý có thể giúp phân loại và trả lời theo từng nhóm thông tin, như là tài liệu nhân sự, tài liệu đào tạo, hay các thông tin liên quan đến công việc cụ thể.
-
-Tại Sao Nên Sử Dụng Trợ Lý A.I Mà Không sử Dụng A.I Nào Khác ?
-"Tôi đã từng dùng ChatGPT để viết content và học tập, nhưng chỉ sau vài ngày, tôi đã chán và bỏ cuộc.
-
-Tại sao?
-Đơn giản vì ChatGPT đưa ra hướng dẫn quá chung chung, không phản ánh được phong cách và nhu cầu cá nhân của tôi. Dùng một thời gian, tôi cảm thấy nó không trả lời được như ý tôi mong muốn và rồi tôi quyết định ngừng.
-
-Rồi tôi tìm ra giải pháp đột phá:
-Tôi tự tạo một trợ lý A.I riêng sử dụng API của ChatGPT, được tùy chỉnh và "đào tạo" đúng theo cách tôi muốn. Với nó, tôi có thể cá nhân hóa mọi thứ: từ viết content, học tập, tư vấn khách hàng, đến xử lý các công việc phức tạp.
-
-Không chỉ dừng lại ở một trợ lý, tôi còn tạo ra hàng chục, thậm chí hàng trăm trợ lý chuyên biệt, mỗi trợ lý đảm nhận một nhiệm vụ cụ thể. Và bạn biết điều tuyệt nhất là gì không? Mọi thứ giờ đây đều chạy trơn tru, đúng ý tôi, giúp tôi tiết kiệm thời gian, tăng hiệu quả công việc mà vẫn giữ được chất riêng của mình. Thực sự, cảm giác "có một đội quân A.I" phục vụ cho riêng mình, phải nói là sướng vô cùng!"
-
-Lợi ích nổi bật khi sử dụng trợ lý AI:
-
-Tự động trích xuất dữ liệu từ tệp TXT về quy trình, văn hóa, chức năng, nhiệm vụ trong doanh nghiệp khi người dùng cần.
-
-Tìm kiếm nhanh chóng, giúp nhân viên văn phòng tra cứu thông tin mà không cần lục lại tài liệu thủ công.
-
-Hỗ trợ đào tạo và onboarding, cung cấp thông tin chính xác cho nhân viên mới một cách tự động.
-
-Giảm sai sót, đảm bảo tất cả nhân viên sử dụng nguồn dữ liệu đồng nhất, tránh hiểu sai quy trình.
-
-Tăng hiệu suất làm việc, giúp nhân viên tập trung vào công việc chính thay vì mất thời gian tìm kiếm thông tin.
-
-Tích hợp linh hoạt, có thể mở rộng để hỗ trợ tìm kiếm theo từ khóa hoặc tổng hợp thông tin theo yêu cầu.
-
-Kiểm tra, rà soát lỗi, hợp đồng.
-
-Cập nhật mới nhất: Trợ lý AI cá nhân hóa đã được tích hợp AI Agent, N8N, có thể đọc các file dữ liệu như PDF, Excel, Word...
+| **Tuần** | **Buổi** | **Nội dung chính**                               | **Hình thức** | **Ghi chú**                                |
+| -------- | -------- | ------------------------------------------------ | ------------- | ------------------------------------------ |
+| Tuần 1   | LT 1     | Bài 1: Khái niệm về QLDA, vai trò người QLDA     | LT            | Giới thiệu môn học, thảo luận vai trò QLDA |
+|          | TH 1     | Thực hành phân công người QLDA, rút kinh nghiệm  | TH            | Dự án nhỏ về tin tức online                |
+| Tuần 2   | LT 2     | Bài 2: Khởi động dự án                           | LT            | Project Charter, Smart goal, Scope         |
+|          | TH 2     | Luyện tập tạo Project Charter, phân công vai trò | TH            | Phân tích vai trò QLDA                     |
+| Tuần 3   | LT 3     | Bài 3: Công cụ & framework QLDA (Scrum)          | LT            | Sinh viên tự học video + bài tập           |
+|          | TH 3     | Phân tích quy trình nhóm đã chọn                 | TH            | Khó khăn khi không có quy trình            |
+| Tuần 4   | LT 4     | Bài 4: Lập kế hoạch dự án (phần 1)               | LT            | Project team, milestone                    |
+|          | TH 4     | Phân tích vai trò QLDA trong scrum               | TH            | Chọn quy trình vận hành nhóm               |
+| Tuần 5   | LT 5     | Bài 5: Lập kế hoạch dự án (phần 2)               | LT            | WBS, Schedule                              |
+|          | TH 5     | QLDA trình bày sprint 1: giao tiếp, theo dõi     | TH            | Bàn giao vai trò QLDA                      |
+| Tuần 6   | LT 6     | Bài 6: Quản lý thay đổi & cấu hình               | LT            | Tự học video + tài liệu                    |
+|          | TH 6     | QLDA trình bày sprint 2                          | TH            | Thảo luận teamwork, tracking               |
+| Tuần 7   | LT 7     | Bài 7: Quản lý chất lượng & rủi ro               | LT            | Kế hoạch chất lượng & risk management      |
+|          | TH 7     | Chuẩn bị đồ án – phân tích đạt/không đạt         | TH            | Giới thiệu đồ án cuối kỳ                   |
+| Tuần 8   | LT 8     | Bài 8: Thực thi dự án                            | LT            | Quản lý trao đổi, họp, status report       |
+|          | TH 8     | Đồ án thực tế – Dự án “mua vé khu vui chơi”      | TH            | Quy trình Scrum: grooming, planning,...    |
+| Tuần 9   | LT 9     | Bài 9: Kết thúc dự án                            | LT            | Báo cáo, đóng dự án, lesson learned        |
+|          | TH 9     | Tiếp tục thực hiện đồ án “mua vé khu vui chơi”   | TH            | Scrum theo tuần                            |
+| Tuần 10  | LT 10    | Bài 10: EVM trên Scrum và truyền thống           | eLearning     | So sánh quy trình và đo lường tiến độ      |
+|          | TH 10    | Hoàn thiện đồ án “mua vé khu vui chơi”           | TH            | Báo cáo tiến độ từng Sprint                |
 
 
+🧑‍🏫 Tuần 1: TỔNG QUAN VỀ DỰ ÁN VÀ QUẢN LÝ DỰ ÁN
+📌 1. Khái niệm "Dự án" và đặc điểm
+✅ Định nghĩa "Dự án":
+Dự án là một nỗ lực tạm thời được thực hiện để tạo ra một sản phẩm, dịch vụ hoặc kết quả duy nhất.
 
-Khóa Học Dành Cho Ai ?
+✅ Đặc điểm của dự án:
+Tính tạm thời: Có thời điểm bắt đầu và kết thúc rõ ràng.
 
-Nhân viên văn phòng muốn tiết kiệm thời gian tìm kiếm thông tin, hiểu rõ quy trình làm việc.
+Tính duy nhất: Mỗi dự án là khác nhau (dù có thể giống nhau về hình thức).
 
-Quản lý & lãnh đạo cần một công cụ hỗ trợ đào tạo, hướng dẫn nhân viên nhanh chóng.
+Có mục tiêu rõ ràng: Được xác định bởi yêu cầu khách hàng hoặc tổ chức.
 
-Nhân sự (HR) muốn chuẩn hóa quy trình onboarding, cung cấp thông tin về văn hóa và chính sách công ty.
+Giới hạn tài nguyên: Bao gồm thời gian, chi phí, nhân lực, công nghệ...
 
-Chuyên viên vận hành cần truy xuất nhanh các quy trình, nhiệm vụ để đảm bảo công việc diễn ra suôn sẻ.
+Có cấu trúc tổ chức riêng: Phân công trách nhiệm, nhóm làm việc.
 
-Người làm việc từ xa hoặc làm việc trong môi trường doanh nghiệp lớn, nơi thông tin nội bộ phân tán và khó tiếp cận.
+📘 Ví dụ:
 
-Không giới hạn số lượng trợ lý: Bạn có thể tạo hàng trăm trợ lý AI, mỗi trợ lý được thiết kế để đảm nhận một nhiệm vụ riêng biệt, phù hợp với nhu cầu cá nhân hoặc doanh nghiệp.
+Phát triển phần mềm quản lý bán hàng.
 
-Hoạt động 24/7: Trợ lý AI làm việc không ngừng nghỉ, không than phiền, không cần nghỉ phép, và đặc biệt, bạn không phải trả lương!
+Xây dựng ứng dụng học trực tuyến cho sinh viên.
 
-Tùy chỉnh linh hoạt: Trợ lý được bạn trực tiếp đào tạo và hướng dẫn, đảm bảo hoạt động theo ý muốn, trở thành "người đồng hành" đáng tin cậy trong công việc.
+📌 2. Khái niệm "Quản lý dự án"
+✅ Định nghĩa:
+Quản lý dự án là việc áp dụng kiến thức, kỹ năng, công cụ và kỹ thuật vào các hoạt động của dự án nhằm đáp ứng yêu cầu của dự án.
 
-Sử dụng miễn phí và vĩnh viễn: Mỗi trợ lý được gắn với một tên miền riêng, đảm bảo tính ổn định và không phát sinh chi phí hàng tháng.
+✅ Các hoạt động chính:
+Khởi xướng dự án
 
-Chi phí vận hành siêu tiết kiệm: Chỉ với khoảng 2 USD/tháng, bạn có thể duy trì hệ thống, nhờ kết nối với API của OpenAI – giải pháp tiết kiệm và hiệu quả tối ưu.
+Lập kế hoạch
 
+Thực hiện
 
-Lợi ích nổi bật khi sử dụng trợ lý AI
-Khi công ty triển khai một phần mềm hoặc một nhiệm vụ mới, quản lý có thể đào tạo trợ lý AI bằng cách cung cấp tài liệu hướng dẫn, quy trình làm việc hoặc các thông tin liên quan. Nhân viên chỉ cần đặt câu hỏi cho trợ lý AI thay vì mất thời gian tìm kiếm tài liệu hoặc chờ đợi sự hướng dẫn từ đồng nghiệp hay quản lý. Trợ lý AI sẽ ngay lập tức cung cấp câu trả lời chính xác, giúp nhân viên hiểu rõ nhiệm vụ và thực hiện công việc hiệu quả hơn.
+Giám sát & kiểm soát
 
+Kết thúc dự án
 
-Cách Sử Dụng Trợ Lý A.I
-Bạn sẽ truy cập vào tên miền riêng của chính bạn (hoàn toàn miễn phí để sử dụng)
+📘 Trong phần mềm:
+Quản lý dự án phần mềm bao gồm quản lý yêu cầu, phạm vi, tiến độ, nhân sự, rủi ro, chất lượng phần mềm...
 
-Người  dùng hoặc bạn sẽ chat với trợ lý này tương tự như chatgpt, chỉ khác là các trợ lý này được bạn đào tạo và định hướng câu trả lời theo những gì bạn muốn.
+📌 3. Vai trò và trách nhiệm của người quản lý dự án
+✅ Vai trò chính:
+Là người chịu trách nhiệm cuối cùng về việc đảm bảo dự án hoàn thành đúng mục tiêu, thời gian và chi phí.
 
-Chúng tôi có các video hướng dẫn và code nguồn hướng dẫn bạn từng bước để bạn tạo trợ lý, cực kỳ dễ làm, bạn không cần biết lập trình, cũng không cần phải là giỏi công nghệ, Bạn vẫn có thể tạo ra hàng trăm trợ lý A.I riêng cho chính bạn
-Bạn Sẽ Nhận Được Gì Khi Đăng Ký ?
+✅ Trách nhiệm cụ thể:
+Lập kế hoạch dự án
 
-Phí tool và hướng dẫn tạo ra hàng trăm trợ lý là : 1480K cho 5 anh em nhanh nhất hôm nay (phí sẽ tăng dần từng ngày) 
+Điều phối và phân công công việc
 
-Câu Hỏi Thường Gặp
-Có mất phí duy trì và phí cho bên thứ ba khi sử dụng không?
+Theo dõi tiến độ và điều chỉnh khi cần
 
-Chỉ với chi phí rất nhỏ cho API ChatGPT (chỉ từ 2 USD), bạn đã có thể sử dụng thoải mái (không giới hạn thời gian), xài bao nhiêu tính tính tiền bấy nhiều, tính theo token api của openai cực kỳ tiết kiệm ! Ví dụ như bên mình, nạp 5 USD mà dùng suốt 3 tháng vẫn chưa hết hạn mức. Nếu bạn chưa sẵn sàng chi trả, bên mình sẵn lòng tặng bạn một khoản API trị giá 5 USD trải nghiệm nhưng xin lưu ý để sử dụng 5$ này bạn cũng phải đóng trước 1480K phí khởi tạo và hướng dẫn trong quá trình học và tạo trợ lý, chỉ khi bạn đóng phí này, bạn mới được sử dụng 5$ miễn phí bên mình
+Quản lý rủi ro và giải quyết vấn đề
 
-Với lại mình không có Web riêng thì sẽ xử dụng như thế nào?
-Bạn có thể tạo website miễn phí với tên miền riêng kết thúc bằng .streamlit.app  hoặc tên miền riêng của chính bạn nếu bạn có sẵn (ví dụ: https://chatbox.anhlaptrinh.vn/). Điều tuyệt vời là bạn có thể tạo không giới hạn số lượng website – từ 1 đến 100, hay thậm chí nhiều hơn, tùy thích. Các website này được sử dụng hoàn toàn miễn phí và vĩnh viễn.
+Giao tiếp với các bên liên quan
 
-bạn sẽ học cách tạo hàng trăm trợ lý riêng cho chính bạn sau đó (chúng tôi hướng dẫn, rất dễ thực hiện)
-Phí tool và hướng dẫn tạo ra hàng trăm trợ lý là : 1480K cho 5 bạn nhanh nhất hôm nay (phí sẽ tăng dần từng ngày)
-cập nhật thêm số tài khoản ngân hang để thanh toán: 1301847988  - Nguyễn Văn Nhuần - BIDV
-nội dung chuyển khoản theo cú pháp sau : TLA số_điện_Thoại_Của_Bạn  ví dụ: TLA 0914972102
-chúng tôi sẽ liên hệ bạn qua zalo để hỗ trợ hoặc bạn chủ động inbox zalo 0914972 102 - Nhuần
-Link website tìm hiểu thêm: https://cb.anhlaptrinh.vn
-Công Ty TNHH Anh Lập Trình
-contact@anhlaptrinh.com
-0914972102
+Đảm bảo chất lượng sản phẩm đầu ra
 
+🧠 Tố chất cần có: lãnh đạo, kỹ năng giao tiếp, tư duy tổ chức, quản lý thời gian, ra quyết định nhanh.
 
-Lầu 5: Toà Nhà ST. MORITZ 1014 Phạm Văn Đồng, P, Thủ Đức, Thành phố Hồ Chí Minh
+💬 4. Thảo luận lớp: Tại sao cần Quản lý dự án trong phần mềm?
+👉 Gợi ý để sinh viên thảo luận:
 
+Dự án phần mềm thường có gì đặc biệt?
 
-Anh em có thể tạo ra một Trợ Lý A.I mang hơi thở của bạn, thương hiệu cá nhân hay cơ quan của chính bạn, với tên miền riêng của chính bạn (ví dụ nguyenvana.com chỉ 30K/ năm)
+Nếu không quản lý, điều gì có thể xảy ra?
 
-SỐ ĐIỆN THOẠI ZALO HỖ TRỢ : 0854838394
-Anh kết bạn zalo hỗ trợ 1-1  (quan trọng, nơi hỗ trợ a học tập  zalo và zoom, a hỏi đáp bất kỳ lúc nào a bị vướng hay cần hướng dẫn) 
-Link zalo: https://zalo.me/0854838394
-Số điện thoại Zalo: 0854838394 
+Vai trò của quản lý trong các khía cạnh: tiến độ, chi phí, chất lượng phần mềm?
 
+Có phải chỉ cần giỏi lập trình là đủ?
 
+🎯 Mục tiêu thảo luận:
+Nhận thức được tính phức tạp và đặc thù của dự án phần mềm.
 
-BẠN CHỈ NÓI NHỮNG GÌ LIÊN QUAN TỚI TRỢ LÝ A.I TÀI LIỆU CUNG CẤP, NẾU KHÁCH HÀNG HỎI VỀ NỘI DUNG KHÁC, BẠN VẪN TRẢ LỜI NHỮNG LƯU Ý VỚI HỌ LÀ BẠN ĐƯỢC ĐÀO TẠO ĐỂ TRẢ LỜI VỀ TRỢ LÝ A.I THÔI NÊN THÔNG TIN NGOÀI LÊ· CÓ THỂ CHƯA KIỂM CHỨNG, BẠN CHỈ NÊN HỎI VỀ TRỢ LÝ A.I MÀ THÔI
+Hiểu được sự cần thiết của vai trò quản lý trong việc đảm bảo thành công của dự án.
+
+✅ Tóm tắt bài học
+Dự án là hoạt động tạm thời tạo ra sản phẩm/dịch vụ duy nhất.
+
+Quản lý dự án là quá trình điều phối toàn bộ hoạt động của dự án để đạt mục tiêu.
+
+Quản lý dự án phần mềm là cần thiết để đảm bảo chất lượng, tiến độ và hiệu quả.
+
+Người quản lý dự án đóng vai trò then chốt trong sự thành công.
+
+-------------------------
+🧭 Tuần 2: Giai đoạn Khởi động Dự án (Project Initiation)
+1. ✅ Quy trình khởi động dự án
+🎓 Lý thuyết:
+Giai đoạn khởi động giúp xác định:
+
+Tại sao dự án được thực hiện?
+
+Ai là người liên quan?
+
+Dự án cần đạt được điều gì?
+
+🔍 Thực tiễn:
+Trong một dự án phát triển phần mềm:
+
+Nếu bạn bắt đầu viết code ngay mà không rõ mục tiêu và phạm vi → dự án sẽ dễ bị thất bại, lệch hướng hoặc mất kiểm soát.
+
+VD: Một startup yêu cầu “làm app gọi xe giống Grab” nhưng không nói rõ cần gì → nhóm làm không đúng mong muốn khách hàng.
+
+💡 Các bước cụ thể:
+Bước	Mô tả
+1. Xác định mục tiêu	Dự án nhằm giải quyết vấn đề gì?
+2. Xác định phạm vi	Làm gì và không làm gì?
+3. Xác định stakeholders	Ai tham gia, ai chịu ảnh hưởng?
+
+2. ✅ Project Charter (Hiến chương dự án)
+🎓 Lý thuyết:
+Là tài liệu chính thức khởi động dự án.
+
+Giúp trao quyền cho người quản lý dự án và thống nhất mục tiêu chung.
+
+📄 Nội dung cơ bản:
+Tên dự án
+
+Lý do kinh doanh
+
+Mục tiêu SMART
+
+Phạm vi sơ bộ
+
+Stakeholders chính
+
+Giới hạn về ngân sách/thời gian
+
+Rủi ro cao (nếu có)
+
+🔍 Thực tiễn:
+Khi một công ty phần mềm bắt đầu dự án làm hệ thống CRM cho khách hàng doanh nghiệp, Project Charter sẽ xác định rõ:
+
+Mục tiêu: xây CRM trong 6 tháng
+
+Không làm module thống kê nâng cao
+
+Ngân sách: tối đa 300 triệu đồng
+
+🧠 Nếu không có tài liệu này, nhóm phát triển dễ hiểu sai yêu cầu hoặc làm “vượt giới hạn”.
+
+3. ✅ Business Opportunity & SMART Goal
+🎓 Lý thuyết:
+Business Opportunity:
+
+Lý do dự án nên tồn tại → Dự án tạo ra giá trị gì cho tổ chức?
+
+SMART Goal là cách đặt mục tiêu hiệu quả:
+
+Chữ	Ý nghĩa	Ví dụ
+S	Specific (Cụ thể)	“Ứng dụng học tập cho sinh viên đại học”
+M	Measurable (Đo lường được)	“Tối thiểu 500 người dùng trong 3 tháng”
+A	Achievable (Có thể đạt được)	Dựa trên nguồn lực có
+R	Relevant (Liên quan)	Phù hợp với chiến lược của công ty
+T	Time-bound (Thời hạn)	Hoàn thành trong 90 ngày
+
+🔍 Thực tiễn:
+Một công ty thấy cơ hội vì khách hàng đang chuyển sang học online, nên họ khởi động dự án phát triển nền tảng học trực tuyến.
+
+Mục tiêu theo SMART: "Xây dựng nền tảng e-learning có thể phục vụ 1000 sinh viên, với 4 chức năng chính, hoàn thành trong 3 tháng."
+
+4. ✅ Phạm vi ban đầu (Preliminary Scope Statement)
+🎓 Lý thuyết:
+Là bản mô tả tạm thời những gì sẽ được thực hiện (và không thực hiện).
+
+Giúp xác lập ranh giới rõ ràng cho dự án.
+
+Thành phần	Ví dụ
+Yêu cầu	Đăng ký học phần, upload bài giảng
+Loại trừ	Không làm app di động
+Ràng buộc	Ngân sách 100 triệu, thời gian 3 tháng
+
+🔍 Thực tiễn:
+Dự án xây phần mềm quản lý thư viện:
+
+Bao gồm: mượn/trả sách, quản lý tài khoản, thống kê.
+
+Không bao gồm: số hóa tài liệu giấy hay app mobile.
+
+5. ✅ Kỹ thuật thảo luận xác định vấn đề
+🎓 Lý thuyết:
+Giúp thu thập thông tin, hiểu nhu cầu thực sự của người dùng và xác định vấn đề cần giải quyết.
+
+Kỹ thuật	Mô tả	Ứng dụng
+Phỏng vấn	Hỏi trực tiếp người dùng	Hỏi thủ thư về khó khăn khi quản lý sách
+Quan sát	Theo dõi người dùng sử dụng hệ thống hiện tại	Quan sát nhân viên làm báo cáo
+5 Whys	Hỏi "Tại sao?" liên tục để tìm nguyên nhân gốc	“Tại sao khách không mua hàng?”
+Brainstorm	Động não tập thể	Cả nhóm nghĩ ra các chức năng cần thiết
+Use-case workshop	Viết kịch bản sử dụng phần mềm	Mô tả hành vi người dùng với hệ thống
+
+🔍 Thực tiễn:
+Trước khi phát triển hệ thống học trực tuyến, nhóm đi phỏng vấn sinh viên, giảng viên → biết được cần thêm tính năng quiz và theo dõi tiến độ học.
+
+📌 Tổng kết dành cho sinh viên:
+Bạn cần hiểu	Vì sao quan trọng?
+Khởi động là giai đoạn nền tảng	Nếu khởi động sai, cả dự án sẽ thất bại
+Project Charter giúp thống nhất mục tiêu	Tránh hiểu lầm và lệch hướng
+Mục tiêu SMART giúp bạn đặt mục tiêu rõ ràng	Dễ đo lường và đạt được
+Phạm vi ban đầu giúp kiểm soát mong đợi	Tránh “tính năng rắn bò” (scope creep)
+Kỹ thuật xác định vấn đề giúp hiểu đúng nhu cầu	Làm ra sản phẩm đúng cái người dùng cần
+
+------------------
+🧭 Tuần 3 – Framework và Công cụ Quản lý Dự án
+🎯 Chủ đề: Các phương pháp và công cụ quản lý phổ biến
+✅ 1. Tổng quan các phương pháp quản lý dự án
+Phương pháp	Mô tả ngắn	Khi nào dùng?
+Waterfall	Làm từng bước từ đầu đến cuối, không quay lại	Dự án có yêu cầu rõ, ít thay đổi
+Agile	Làm từng phần nhỏ, cải tiến liên tục	Dự án phần mềm, yêu cầu thay đổi thường xuyên
+Scrum	Một dạng Agile, chia thời gian thành các đợt nhỏ (sprint)	Phát triển phần mềm nhóm nhỏ
+Kanban	Quản lý công việc bằng bảng trực quan (thường 3 cột: To Do – Doing – Done)	Dự án cần theo dõi liên tục, không chia thời gian
+
+✅ 2. Cấu trúc của Scrum Framework
+Scrum là một mô hình Agile phổ biến nhất trong phát triển phần mềm.
+
+🔹 Roles (Vai trò):
+Vai trò	Mô tả
+Product Owner	Đại diện khách hàng, quyết định tính năng
+Scrum Master	Người hướng dẫn nhóm, gỡ rối và đảm bảo theo đúng Scrum
+Development Team	Nhóm phát triển, tự tổ chức và làm việc theo sprint
+
+🔹 Artifacts (Tài liệu):
+Artifact	Mô tả
+Product Backlog	Danh sách tất cả các yêu cầu sản phẩm
+Sprint Backlog	Các việc sẽ làm trong sprint hiện tại
+Increment	Sản phẩm phần mềm chạy được sau mỗi sprint
+
+🔹 Events (Sự kiện):
+Sự kiện	Diễn ra khi nào?	Mục đích
+Sprint Planning	Bắt đầu mỗi sprint	Chọn việc để làm
+Daily Scrum (15 phút)	Mỗi ngày	Cập nhật tiến độ, gỡ khó khăn
+Sprint Review	Cuối sprint	Trình bày sản phẩm cho Product Owner
+Sprint Retrospective	Sau review	Nhóm tự đánh giá và cải tiến
+
+🧠 Một Sprint thường kéo dài từ 1 đến 4 tuần.
+
+✅ 3. So sánh Waterfall và Agile
+Tiêu chí	Waterfall	Agile
+Cách làm	Theo từng giai đoạn cố định	Linh hoạt, lặp lại
+Thay đổi yêu cầu	Khó thay đổi	Dễ thích ứng
+Giao tiếp khách hàng	Ít, chỉ đầu/cuối	Thường xuyên
+Kiểm thử	Cuối cùng	Trong suốt quá trình
+Khi nào phù hợp	Dự án ổn định, yêu cầu rõ	Dự án thay đổi nhanh, nhiều thử nghiệm
+
+📘 Ví dụ thực tiễn:
+
+Làm phần mềm ngân hàng → Waterfall (vì cần an toàn, rõ ràng).
+
+Làm ứng dụng startup → Agile/Scrum (vì khách hàng hay đổi ý).
+
+✅ 4. Ưu – nhược điểm của Scrum
+✅ Ưu điểm:
+Linh hoạt, thích ứng nhanh với thay đổi
+
+Giao tiếp nhóm tốt, minh bạch
+
+Sản phẩm có thể demo sớm cho khách hàng
+
+Phát hiện lỗi sớm
+
+❌ Nhược điểm:
+Không phù hợp nếu không có nhóm chủ động
+
+Cần Product Owner có thời gian tham gia liên tục
+
+Nhóm mới học dễ dùng sai cách
+
+📘 Thực tiễn:
+Ở các công ty phần mềm như FPT Software, KMS, TMA…, Scrum là phương pháp rất phổ biến. Nhưng nếu Product Owner không sẵn sàng phản hồi nhanh, Scrum sẽ khó thành công.
+
+✅ 5. Các công cụ hỗ trợ quản lý: Trello – Jira – Asana
+Công cụ	Đặc điểm chính	Dùng khi nào?
+Trello	Dễ dùng, dạng bảng Kanban (To Do – Doing – Done), miễn phí	Sinh viên, nhóm nhỏ, quản lý cá nhân
+Jira	Phức tạp hơn, hỗ trợ Scrum, report, quy trình chuyên sâu	Công ty phần mềm, nhóm lớn
+Asana	Kết hợp dạng bảng + danh sách, tốt cho teamwork	Quản lý công việc nhóm vừa đến lớn
+
+📘 Gợi ý thực hành:
+
+Sinh viên có thể tạo Trello để quản lý đồ án:
+
+Cột To Do: “Tạo giao diện login”, “Thiết kế database”
+
+Cột Doing: Việc đang làm
+
+Cột Done: Đã hoàn thành
+
+📌 Tổng kết kiến thức Tuần 3
+Nội dung	Ý nghĩa thực tiễn
+Biết các phương pháp quản lý	Chọn cách phù hợp với dự án bạn tham gia
+Scrum giúp chia nhỏ công việc	Nhóm dễ kiểm soát tiến độ và chất lượng
+Dùng Trello, Jira, Asana	Quản lý tiến độ rõ ràng, tránh quên việc
+So sánh Waterfall – Agile	Hiểu lý do vì sao công ty chọn cách này hay cách kia
+
+--------------------
+🧭 Tuần 4: Lập kế hoạch dự án – Phần 1
+🎯 Bài 4: Lập kế hoạch tổng quát
+✅ 1. Các yếu tố chính trong lập kế hoạch dự án
+Muốn lập kế hoạch tốt, bạn cần xác định rõ 4 yếu tố cơ bản:
+
+Yếu tố	Giải thích	Ví dụ thực tế
+🎯 Mục tiêu (Goals)	Dự án muốn đạt được điều gì?	“Tạo một app quản lý chi tiêu cho sinh viên trong 2 tháng.”
+👥 Thành viên (Team Members)	Ai sẽ tham gia dự án? Có kỹ năng gì?	1 bạn code backend, 1 bạn frontend, 1 bạn thiết kế UI
+💰 Tài nguyên (Resources)	Những gì bạn có sẵn để thực hiện? (người, thiết bị, công cụ)	Laptop, Figma, Trello, Internet
+⏳ Thời gian (Timeline)	Dự án kéo dài bao lâu? Các mốc quan trọng?	Tổng thời gian: 8 tuần, có 4 mốc đánh giá
+
+👉 Gợi ý thực hành:
+Tạo bảng liệt kê 4 yếu tố này cho chính đồ án hoặc bài tập nhóm của bạn.
+
+✅ 2. Critical Success Factors (CSF) – Các yếu tố thành công cốt lõi
+🎓 Lý thuyết:
+Đây là những điều bắt buộc phải làm tốt thì dự án mới thành công.
+
+CSF thường gặp	Ý nghĩa
+Sự cam kết của nhóm	Mọi người đều nghiêm túc, có trách nhiệm
+Giao tiếp rõ ràng	Không hiểu nhầm, trao đổi thường xuyên
+Quản lý thời gian tốt	Không bị trễ hạn, đúng tiến độ
+Phản hồi từ người dùng	Làm đúng cái người dùng cần
+
+🔍 Thực tiễn sinh viên:
+Làm đồ án nhóm mà:
+
+Không ai nhắc ai, ai cũng bận → dễ thất bại
+
+Không check tiến độ → nước đến chân mới nhảy
+
+👉 Vậy nên: hãy xác định 2–3 yếu tố mà nhóm bạn phải làm tốt nhất.
+
+✅ 3. Thành lập đội dự án – Phân công vai trò
+🎓 Lý thuyết:
+Dự án phần mềm cần các vai trò như:
+
+Vai trò	Nhiệm vụ chính
+Project Manager	Quản lý tiến độ, phân công công việc
+Developer	Lập trình, viết code
+UI/UX Designer	Thiết kế giao diện, trải nghiệm người dùng
+Tester	Kiểm thử phần mềm
+Documentation	Viết tài liệu, báo cáo
+
+🧠 Nhóm sinh viên có thể kết hợp nhiều vai trò trong 1 người. VD: 1 bạn vừa làm code vừa làm báo cáo.
+
+🔍 Thực tế sinh viên:
+Bạn là sinh viên, nên nhóm chỉ có 3–5 người → cần:
+
+Phân vai rõ từ đầu
+
+Họp đầu kỳ để ai cũng biết việc ai làm gì
+
+👉 Mẹo nhỏ: Dùng Trello chia việc rõ từng cột theo người và theo vai trò.
+
+✅ 4. Xác định Milestones – Thời hạn – Kỳ vọng
+🎓 Lý thuyết:
+Milestone là cột mốc quan trọng trong dự án → giúp theo dõi tiến độ.
+
+Deadline là thời hạn hoàn thành từng công việc nhỏ.
+
+Kỳ vọng là mong muốn từ người dùng, khách hàng hoặc giảng viên.
+
+Ví dụ milestone (cho dự án 8 tuần)	Nội dung
+Tuần 2	Hoàn tất tài liệu yêu cầu người dùng
+Tuần 4	Xong phần giao diện người dùng
+Tuần 6	Xong kết nối backend
+Tuần 8	Demo sản phẩm, nộp báo cáo
+
+🔍 Thực tế sinh viên:
+Bạn làm đồ án mà:
+
+Không chia mốc → dễ làm dồn cuối kỳ
+
+Không rõ kỳ vọng giảng viên → dễ bị trừ điểm
+
+👉 Mẹo: Dùng Google Calendar + Trello để chia milestone ra và gắn deadline cụ thể.
+
+📌 Tổng kết Tuần 4 – Dành cho sinh viên
+Bạn cần biết	Vì sao quan trọng?
+Xác định rõ mục tiêu, vai trò, thời gian	Để có kế hoạch hành động cụ thể
+Biết các CSF	Giúp nhóm bạn tập trung vào điều quan trọng nhất
+Milestone rõ ràng	Dự án không bị trễ, không dồn việc cuối kỳ
+Phân vai sớm	Tránh “người làm, người chơi”
+
+🧪 Gợi ý thực hành cá nhân hoặc nhóm:
+Tạo kế hoạch đơn giản cho 1 dự án nhỏ (VD: xây web xem điểm sinh viên)
+
+Viết các mục tiêu (SMART) và milestone trong file Google Docs
+
+Dùng Trello để chia công việc và theo dõi tiến độ
+
+Tự đánh giá lại hàng tuần theo milestone
+------------------------
+🧭 Tuần 5: Lập kế hoạch dự án – Phần 2
+🎯 Chủ đề: WBS và Lịch trình (Schedule)
+✅ 1. Work Breakdown Structure (WBS) – Cấu trúc phân rã công việc
+🎓 Khái niệm:
+WBS là một công cụ phân chia dự án thành các phần nhỏ hơn, giúp quản lý dễ dàng hơn.
+
+🧠 “Bạn không thể quản lý những gì bạn không thể chia nhỏ.”
+
+📌 Mục tiêu:
+Biết rõ dự án có những gì
+
+Dễ giao việc, theo dõi tiến độ
+
+Tránh bỏ sót nhiệm vụ
+
+📊 Ví dụ thực tế (dự án làm Website bán hàng):
+less
+Copy
+Edit
+Dự án: Xây dựng website bán hàng
+├── Phân tích yêu cầu
+│   ├── Thu thập yêu cầu
+│   └── Tài liệu yêu cầu
+├── Thiết kế
+│   ├── Giao diện người dùng (UI)
+│   └── Thiết kế database
+├── Phát triển
+│   ├── Frontend
+│   └── Backend
+├── Kiểm thử
+│   ├── Unit Test
+│   └── Test toàn hệ thống
+├── Triển khai & báo cáo
+👉 Mỗi "nhánh" trong WBS sẽ tiếp tục phân nhỏ ra đến mức có thể giao việc cụ thể được.
+
+✅ 2. Phân rã công việc & xác định công việc chi tiết
+🧩 Phân rã công việc là gì?
+Là chia nhỏ một công việc lớn thành các task cụ thể, có thể giao cho từng người làm.
+
+✍ Cách làm:
+Xác định đầu việc chính (dựa theo WBS)
+
+Chia nhỏ thành công việc con
+
+Gắn người phụ trách, thời gian hoàn thành, kết quả mong đợi
+
+📘 Ví dụ nhỏ:
+Công việc: Thiết kế giao diện → phân nhỏ thành:
+
+Vẽ mockup trang chủ
+
+Thiết kế giao diện đăng nhập
+
+Thiết kế giao diện giỏ hàng
+
+👉 Sau khi phân rã, bạn có thể đưa vào sơ đồ Gantt để lập lịch.
+
+✅ 3. Lập lịch trình (Schedule)
+⏳ Các công cụ phổ biến:
+a. Gantt Chart (Sơ đồ Gantt)
+Dạng biểu đồ thanh, trục ngang là thời gian, trục dọc là công việc
+
+Mỗi task là 1 thanh thể hiện thời gian bắt đầu/kết thúc
+
+📘 Ví dụ minh họa:
+
+less
+Copy
+Edit
+| Công việc          | Thời gian |
+|-------------------|-----------|
+| Thu thập yêu cầu  | Tuần 1–2  |
+| Thiết kế UI       | Tuần 2–3  |
+| Code frontend     | Tuần 3–5  |
+| Test hệ thống     | Tuần 5–6  |
+Bạn có thể dùng Excel, [Trello + Gantt plugin], hoặc phần mềm như GanttProject, ClickUp, Notion.
+
+b. PERT Chart (Program Evaluation Review Technique)
+Dùng để thể hiện các mối quan hệ giữa công việc (nhiệm vụ nào phải xong thì mới làm tiếp)
+
+Mỗi công việc là một nút trong sơ đồ → giúp ước lượng thời gian chính xác hơn
+
+Loại thời gian trong PERT	Ý nghĩa
+Thời gian lạc quan (O)	Trong điều kiện thuận lợi nhất
+Thời gian bi quan (P)	Trong điều kiện xấu nhất
+Thời gian bình thường (M)	Trong điều kiện bình thường
+Công thức tính trung bình	(O + 4M + P)/6
+
+c. CPM (Critical Path Method – Phương pháp đường găng)
+Tìm ra con đường dài nhất từ đầu đến cuối dự án → đây là chuỗi công việc không được trễ, nếu không dự án sẽ trễ
+
+📘 Ví dụ:
+Nếu bạn cần làm 10 công việc nhưng chỉ 4 công việc nối liền nhau ảnh hưởng tới tiến độ cuối cùng → đó là critical path.
+
+✅ 4. Quản lý thời gian & xác định điểm tới hạn (Deadline)
+🎯 Quản lý thời gian nghĩa là:
+Biết việc nào làm trước, việc nào làm sau
+
+Biết khi nào phải hoàn thành để toàn dự án không bị trễ
+
+📍 Điểm tới hạn (Deadline):
+Là thời gian chậm nhất mà một task phải xong
+
+Bạn phải đặt deadline cho từng task → nhóm sẽ chủ động
+
+📘 Ví dụ sinh viên:
+
+Giao diện phải hoàn thành trước tuần 4, nếu không code backend không test được → đây là deadline cứng.
+
+📌 Tổng kết Tuần 5 – Ghi nhớ cho sinh viên
+Nội dung	Ứng dụng thực tế
+WBS	Chia việc rõ ràng, dễ giao, dễ kiểm soát
+Phân rã công việc	Giao đúng người đúng việc
+Gantt, PERT, CPM	Lập kế hoạch có thời gian cụ thể
+Quản lý deadline	Không trễ tiến độ nhóm, tránh dồn cuối kỳ
+
+🧪 Bài tập thực hành (gợi ý):
+Chọn một đề tài đồ án nhóm
+
+Lập WBS phân chia tối thiểu 4 cấp công việc
+
+Tạo Gantt Chart đơn giản bằng Excel hoặc giấy
+
+Xác định Critical Path (nếu biết PERT/CPM)
