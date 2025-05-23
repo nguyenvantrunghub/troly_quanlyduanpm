@@ -55,7 +55,7 @@ st.markdown(
             text-align: right;
             margin-left: auto;
         }
-        .assistant::before { content: "🤖"; font-weight: bold; }
+        .assistant::before { content: "--"; font-weight: bold; }
     </style>
     """,
     unsafe_allow_html=True
